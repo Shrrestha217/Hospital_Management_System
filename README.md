@@ -10,7 +10,7 @@ This project implements a basic Hospital Management System with the following fe
 * **Doctor Management:** Add, view, and manage doctor information.
 * **Appointment Booking:** Schedule appointments for patients with doctors.
 * **Doctor Availability:** Check doctor availability for specific dates.
-* **Database Connectivity:** Uses JDBC to connect to a MySQL database (or a similar relational database).
+* **Database Connectivity:** Uses JDBC to connect to a MySQL database.
 
 ## Usage
 
