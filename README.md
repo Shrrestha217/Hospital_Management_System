@@ -1,6 +1,6 @@
 # Hospital Management System (Java & JDBC)
 
-This repository contains a beginner-friendly Java project for building a Hospital Management System using JDBC for database connectivity. It's designed to help you learn and practice Java programming, database interaction, and application development.
+This repository contains a beginner-friendly Java project for building a Hospital Management System using JDBC for database connectivity. 
 
 ## Overview
 
