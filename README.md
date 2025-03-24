@@ -1,18 +1,17 @@
 # Hospital Management System (Java & JDBC)
 
-This repository contains a beginner-friendly Java project for building a Hospital Management System using JDBC for database connectivity. 
+This repository has a Java starter project for creating a Hospital Management System with JDBC for database connection.
 
 ## Overview
 
-This project implements a basic Hospital Management System with the following features:
+This project demonstrates a basic Hospital Management System with the following functionalities:
 
 * **Patient Management:** Add, view, and manage patient information.
-* **Doctor Management:** Add, view, and manage doctor information.
-* **Appointment Booking:** Schedule appointments for patients with doctors.
-* **Doctor Availability:** Check doctor availability for specific dates.
-* **Database Connectivity:** Uses JDBC to connect to a MySQL database.
+* **Doctor Management:** View, add, and manage doctor details.
+* **Appointment Booking:** Reserve patients' appointments with doctors.
+* **Doctor Availability:** Doctor availability for specific dates.
+* **Database Connectivity:** Connections to a MySQL database through JDBC.
 
 ## Usage
 
-* Follow the on-screen prompts to navigate through the system.
-* Use the provided options to manage patients, doctors, and appointments.
+* Proceed through the system as the on-screen instruction. * Use the available options to schedule patients, physicians, and appointments.
